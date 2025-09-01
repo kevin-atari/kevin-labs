@@ -1,0 +1,6 @@
+    PID COMMAND         %CPU
+      1 systemd          0.0
+     53 systemd-journal  0.0
+    169 dbus-daemon      0.0
+    187 wsl-pro-service  0.0
+    214 unattended-upgr  0.0

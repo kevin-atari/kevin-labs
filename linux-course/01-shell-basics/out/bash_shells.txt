@@ -1,0 +1,4 @@
+4:/bin/bash
+5:/usr/bin/bash
+6:/bin/rbash
+7:/usr/bin/rbash
